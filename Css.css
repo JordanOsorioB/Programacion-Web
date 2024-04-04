@@ -1,0 +1,80 @@
+.menu {
+    background-color: black;
+    color: white;
+}
+
+.menu li a {
+    display: inline;
+    margin-right: 10px;
+    color: white
+}
+.letras {
+    text-align: center;
+    color:white
+}
+.letrasLeft {
+    text-align: left;
+    color:white;
+    padding-left : 450px;
+}
+.iconosLetras {
+    text-align: left;
+    color:white;
+    padding-left : 530px;
+}
+
+
+.fondo {
+    background-color: rgb(6, 22, 22);
+    color: white;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: white
+}
+
+li {
+    display: inline;
+    margin-right: 10px;
+    color: white
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 35px;
+}
+.Logo img {
+    width: 90px; /* Establecer el ancho en 50 píxeles */
+    height: auto; /* Ajustar la altura automáticamente */
+    vertical-align: middle; /* Alinear verticalmente la imagen con el texto */
+}
+.Icono img {
+    width: 45px; /* Establecer el ancho en 50 píxeles */
+    height: auto; /* Ajustar la altura automáticamente */
+    vertical-align: middle; /* Alinear verticalmente la imagen con el texto */
+}
+.Icono {
+    text-align: center; /* Centrar el contenido del contenedor */
+}
+.Iconoleft {
+    text-align: center; /* Centrar el contenido del contenedor */
+}
+.TextoLetras {
+        text-align: justify;
+        margin: 0 auto; /* Centrar el texto horizontalmente */
+        max-width: 1000px; /* Establecer el ancho máximo del contenedor */
+        padding: 20px; /* Añadir espaciado interno para mejorar la legibilidad */
+        background-color: #070303; /* Agregar un color de fondo para destacar el texto */
+        border-radius: 10px; /* Agregar bordes redondeados para un aspecto más suave */
+        box-shadow: 0 0 10px rgba(23, 24, 26, 0.1); /* Agregar una sombra para resaltar el contenedor */
+        font-size: 20px;
+}
+.footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 12px;
+}
